@@ -1,0 +1,125 @@
+body {
+  background-color: beige; }
+
+.main-header {
+  width: 100%;
+  margin: 0 auto;
+  min-height: 10vh;
+  display: flex;
+  align-items: center;
+  justify-content: center; }
+
+.second-header {
+  width: 100%;
+  margin: 0 auto;
+  text-align: center;
+  min-height: 10vh;
+  display: flex;
+  align-items: center;
+  justify-content: center; }
+
+.one-question {
+  border: solid gray 2px;
+  border-radius: 2vh;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 2vh auto; }
+
+.question-content {
+  font-size: 1.3em; }
+
+.new-question {
+  border: solid blue 2px;
+  background-color: aquamarine;
+  border-radius: 2vh;
+  min-height: 10vh;
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center; }
+
+.question-interaction {
+  border: solid black 1px;
+  display: flex;
+  justify-content: space-between;
+  width: 80%;
+  background-color: lightgray;
+  padding: 0 10%;
+  align-items: center; }
+
+.likes-wrap, .dislikes-wrap {
+  width: 20%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center; }
+
+.number-likes, .number-dislikes {
+  font-size: 1.5em; }
+
+.answers-button {
+  width: 150px;
+  margin: 3vh auto; }
+
+.answers {
+  display: none;
+  position: fixed;
+  width: 100%;
+  height: 100%;
+  z-index: 10;
+  top: 0;
+  left: 0;
+  background-color: white; }
+
+.answers-header {
+  width: 100%;
+  margin: 10vh auto 5vh;
+  text-align: center; }
+
+.no-answer {
+  width: 100%;
+  margin: 10vh auto 0;
+  text-align: center; }
+
+.quest-answers {
+  border: solid gray 1px;
+  border-radius: 2vh;
+  width: 85%;
+  margin: 1vh auto;
+  min-height: 10vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: 1em; }
+
+.answer-form {
+  width: 90%;
+  margin: 0 auto;
+  padding: 5vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+  align-items: center;
+  border: solid blue 2px;
+  background-color: aquamarine;
+  border-radius: 2vh; }
+
+.answer-input {
+  width: 90%;
+  min-height: 10vh;
+  border-radius: 2vh;
+  margin: 0 auto; }
+
+.close-wrap {
+  width: 100%;
+  min-height: 10vh;
+  display: flex;
+  justify-content: center;
+  align-items: center; }
+
+.close-button {
+  width: 150px;
+  height: 35px;
+  background-color: gray; }

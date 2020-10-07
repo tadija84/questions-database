@@ -1,0 +1,31 @@
+{
+  "name": "questions-app",
+  "version": "1.0.0",
+  "description": "Node questions app with express and Nedb database",
+  "main": "server.js",
+  "scripts": {
+    "test": "testing",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "node",
+    "express",
+    "Nedb",
+    "questions",
+    "answers",
+    "fetch",
+    "app"
+  ],
+  "author": "Tadija",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "gulp": "^4.0.2",
+    "nedb": "^1.8.0"
+  },
+  "devDependencies": {
+    "gulp-sass": "^4.1.0",
+    "gulp-watch": "^5.0.1",
+    "node-sass": "^4.14.1"
+  }
+}

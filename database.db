@@ -1,0 +1,9 @@
+{"userName":"Joseph Smith","questcontent":"What is the real question?","numberoflikes":0,"numberofdislikes":0,"timeofposting":1602085490058,"answers":[],"_id":"7czcMtkqttGEmJnP"}
+{"userName":"John Smit","questcontent":"What is the limit of infinity?","numberoflikes":0,"numberofdislikes":0,"timeofposting":1602085261566,"answers":[],"_id":"EdYWSFcgjnAlmO7I"}
+{"userName":"That man","questcontent":"Do you know this man?","numberoflikes":0,"numberofdislikes":0,"timeofposting":1602088830469,"answers":[],"_id":"P3kWV6tpb4fNdEGp"}
+{"userName":"Mark Twen","questcontent":"What is the point of life","numberoflikes":1,"numberofdislikes":0,"timeofposting":1602081481298,"answers":[],"_id":"XcVsqu2LjI7ntd1x"}
+{"userName":"John Doe","questcontent":"What is lorem ipsum?","numberoflikes":1,"numberofdislikes":0,"timeofposting":1602085295943,"answers":["Lorem ipsum is part of Cicero's text."],"_id":"a5eZEkp9FlPZiRwL"}
+{"userName":"Somebody","questcontent":"How to fix computer?","numberoflikes":0,"numberofdislikes":1,"timeofposting":1602085579907,"answers":["Depending of your problem. You can call some computer service.","What is the problem?","What model of computer do you use?"],"_id":"cwPA5n3beCdChhFN"}
+{"userName":"That man","questcontent":"Do you know this man?","numberoflikes":0,"numberofdislikes":0,"timeofposting":1602088830469,"answers":["What man? I see no man here. Diogen..."],"_id":"P3kWV6tpb4fNdEGp"}
+{"userName":"John Smit","questcontent":"What is the limit of infinity?","numberoflikes":1,"numberofdislikes":0,"timeofposting":1602085261566,"answers":[],"_id":"EdYWSFcgjnAlmO7I"}
+{"userName":"Mark Twen","questcontent":"What is the point of life","numberoflikes":1,"numberofdislikes":1,"timeofposting":1602081481298,"answers":[],"_id":"XcVsqu2LjI7ntd1x"}
